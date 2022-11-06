@@ -1,4 +1,4 @@
-Oi|Hi|こんにちは 🐱‍💻
+## Oi|Hi|こんにちは 🐱‍💻🎆
 - 🐱‍🏍 I'm currently learning Japanese, Python, Data science, Machine Learning
 - 🤖 Teaching in the project: Introduction to programming and robotics in the north of Rio de Janeiro
 <div align="center">

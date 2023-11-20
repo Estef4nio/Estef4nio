@@ -1,5 +1,5 @@
 ## Oi|Hi|こんにちは 🐱‍💻🎆
-- 🐱‍🏍 I'm currently learning Japanese, Python, Data science, Machine Learning
+- 🐱‍🏍 I'm currently learning Japanese, Python and Ruby
 - 🤖 Teaching in the project: Introduction to programming and robotics in the north of Rio de Janeiro
 <div align="center">
   <a href="https://github.com/Estef4nio">

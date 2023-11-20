@@ -8,7 +8,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Stuxi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Stuxi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Stuxi-React" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)">
   <img align="right" alt="StuXi" height="200" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/943298551088296016/1038846207927255221/PicsArt_06-15-04.37.30-removebg-preview.png">
 </div>
 

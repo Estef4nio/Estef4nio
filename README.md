@@ -1,6 +1,3 @@
-## Oi|Hi|こんにちは 🐱‍💻🎆
-- 🐱‍🏍 I'm currently learning Japanese, Python and Ruby
-- 🤖 Teaching in the project: Introduction to programming and robotics in the north of Rio de Janeiro
 <div align="center">
   <a href="https://github.com/Estef4nio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Estef4nio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
